@@ -24,11 +24,13 @@ typora官网主题地址：https://theme.typoraio.cn/
 
 ​	2.2：图例：https://theme.typoraio.cn/media/theme/dracula/screenshot2.png
 
-##### **3：dracula**
+##### **3：github**
 
 ​	3.1：官方仓库：[typora/typora-default-themes: default themes used in Typora (github.com)](https://github.com/typora/typora-default-themes)
 
 ​	3.2：图例：https://theme.typoraio.cn/media/theme/github/Snip20170320_1.png
+
+##### **持续更新**
 
 
 
