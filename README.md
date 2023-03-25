@@ -2,9 +2,9 @@
 
 #### 介绍
 typora主题仓库，推荐一些简洁好看的typora主题。    
-typora：一个md文件编辑器。
-typora官网：https://typoraio.cn/。
-typora官网主题地址：https://theme.typoraio.cn/。
+typora：一个md文件编辑器。   
+typora官网：https://typoraio.cn/。   
+typora官网主题地址：https://theme.typoraio.cn/。   
 
 有用的话就star支持一下
 
