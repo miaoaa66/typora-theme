@@ -12,19 +12,19 @@ typora官网主题地址：https://theme.typoraio.cn/
 
 推荐如下(不分先后)
 
-1：See Yue 望月
+##### **1：See Yue 望月**
 
 ​	1.1：官方仓库：[jinghu-moon/typora-see-yue-theme: See Yue 主题是一个自定义样式极多、简约、充满细节的 Typora 明亮主题。（See Yue theme is a bright typora theme with many custom styles, simplicity and full of details.） (github.com)](https://github.com/jinghu-moon/typora-see-yue-theme)
 
 ​	1.2：图例：https://theme.typoraio.cn/media/theme/see-yue/1.png
 
-2：dracula
+##### **2：dracula**
 
 ​	2.1：官方仓库：[Teyler7/dracula-typora-theme: A dark theme for Typora inspired by the Dracula color scheme and Material Design. (github.com)](https://github.com/Teyler7/dracula-typora-theme)
 
 ​	2.2：图例：https://theme.typoraio.cn/media/theme/dracula/screenshot2.png
 
-3：dracula
+##### **3：dracula**
 
 ​	3.1：官方仓库：[typora/typora-default-themes: default themes used in Typora (github.com)](https://github.com/typora/typora-default-themes)
 
