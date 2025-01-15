@@ -8,6 +8,14 @@ typora官网主题地址：https://theme.typoraio.cn/。
 
 有用的话就star支持一下
 
+
+
+#### 适用typora版本
+
+version 0.9.72(beta)
+
+
+
 #### 软件架构
 
 推荐如下(不分先后)
