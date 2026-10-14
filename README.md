@@ -6,19 +6,22 @@ Typora 主题收集仓库，收录一些简洁好看的 Typora 主题。
 
 - [Typora](https://typora.io/)：一款简洁的 Markdown 编辑器。
 - 官方主题站：[theme.typora.io](https://theme.typora.io/)
-- 中文站点：
-  - [typoraio.cn](https://typoraio.cn/)
-  - [theme.typoraio.cn](https://theme.typoraio.cn/)
-  - [support.typoraio.cn](https://support.typoraio.cn/)
-  - [support.typora.io](https://support.typora.io/)
 
-  其他网站
-  https://www.cnblogs.com/chen2ha/p/18568057
-  https://github.com/iuxt/src
+中文站点：
+
+- 官网：[typoraio.cn](https://typoraio.cn/)
+- 主题站：[theme.typoraio.cn](https://theme.typoraio.cn/)
+- 帮助：[support.typoraio.cn](https://support.typoraio.cn/) ｜ [support.typora.io](https://support.typora.io/)
+
+相关资源（下载与安装）：
+
+- [Typora 0.11.18 最后的免费版安装方法（Windows / Arch Linux）](https://www.cnblogs.com/chen2ha/p/18568057)
+- [Typora 历史版本下载（0.9.96 / 0.11.18 等）](https://github.com/iuxt/src)
 
 ## 适用版本
 
 Typora 0.9.72 (beta)
+主题在该免费版本下试过
 
 ## 收录主题
 
@@ -36,13 +39,12 @@ Typora 0.9.72 (beta)
 typora-theme/
 ├── typora-see-yue-theme/    # See Yue 望月（SeeYue/ + see-yue.css）
 ├── typora-dracula-theme/    # Dracula（dracula/ + dracula.css）
-├── typora-github-theme/     # GitHub（github/ + github.css）
-└── typora/                  # Typora 0.9.72 安装包
+└── typora-github-theme/     # GitHub（github/ + github.css）
 ```
 
 ## 主题安装教程
 
-1. 下载并安装 Typora，官方中文站地址：[typoraio.cn](https://typoraio.cn/)。
+1. 下载并安装 Typora，免费版本获取方式见上方「相关资源」。
 
 2. 克隆本仓库（主仓库位于 Gitee）：
 
@@ -50,13 +52,7 @@ typora-theme/
    git clone https://gitee.com/miaoaa66/typora-theme.git
    ```
 
-3. 进入对应主题文件夹，复制主题文件。以《See Yue 望月》为例：
-
-   ```bash
-   cd typora-theme/typora-see-yue-theme
-   ```
-
-   复制该目录下的 `SeeYue` 文件夹和 `see-yue.css`。其余主题结构相同：均为「同名文件夹 + 同名 .css」。
+3. 进入对应主题文件夹（以《See Yue 望月》为例，即 `typora-see-yue-theme/`），复制其中的 `SeeYue` 文件夹和 `see-yue.css`。其余主题结构相同，均为「同名文件夹 + 同名 .css」。
 
 4. 打开 Typora，点击左上角 **文件 → 偏好设置 → 打开主题文件夹**，将上一步复制的文件粘贴进去。
 
